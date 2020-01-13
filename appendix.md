@@ -1,6 +1,6 @@
 # Appendix
 
-After the initial release of this tutorial, several people from various corners of the internet reached out with comments and suggestions. In an effort two keep the original tutorial short and sweet, I've included information about their wonderful suggestions here, and added some of my own. Here you will find info on:
+After the initial release of this tutorial, several people from various corners of the internet reached out with comments and suggestions. In an effort to keep the original tutorial short and sweet, I've included information about their wonderful suggestions here, and added some of my own. Here you will find info on:
 
 - Wi-Fi cracking on MacOS/OSX
 - Capturing handshakes with `wlandump-ng`
@@ -144,7 +144,7 @@ Thanks to [@hiteshnayak305](https://github.com/hiteshnayak305) for the introduct
 
 ## Protecting your identify with `macchanger`
 
-Whenever you are doing anything remotely nefarious with Wi-Fi, it is a good idea to spoof your the MAC address of your Wi-Fi device so that any network traffic that gets recorded can't be tied to serial assigned by your device manufacturer.
+Whenever you are doing anything remotely nefarious with Wi-Fi, it is a good idea to spoof your MAC address of your Wi-Fi device so that any network traffic that gets recorded can't be tied to serial assigned by your device manufacturer.
 
 This is trivial with `macchanger`:
 
